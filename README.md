@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SDB016&show_icons=true&theme=Gradient)](https://github.com/SDB016/github-readme-stats)
 
 
-<p align="center">
-  ### 📓 My Stack 📓
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDB016&layout=compact)](https://github.com/SDB016/github-readme-stats)
+
+
+
+                                                                           ### 📓 My Stack 📓
   
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -42,3 +45,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Logstash-00B9AD?style=flat-square&logo=Logstash&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kibana-E55389?style=flat-square&logo=Kibana&logoColor=white"/></a>
 </p>
+
+
+
