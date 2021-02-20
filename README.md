@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongbin4013)](https://solved.ac/dongbin4013)
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=dongbin4013)](https://solved.ac/dongbin4013)
 
-<p align="center">
-  ### 📓 My Stack 📓
 
+  ### 📓 My Stack 📓
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
