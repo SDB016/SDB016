@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Beats-07A0D7?style=flat-square&logo=Beats&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Logstash-00B9AD?style=flat-square&logo=Logstash&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kibana-E55389?style=flat-square&logo=Kibana&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>
 
 
