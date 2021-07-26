@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongbin4013) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SDB016&show_icons=true&theme=dracula)](https://github.com/SDB016/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDB016&hide=Jupyter%20Notebook&layout=compact)](https://github.com/SDB016/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDB016&hide=Jupyter,JavaScript%20Notebook&layout=compact)](https://github.com/SDB016/github-readme-stats)
 
 
 
