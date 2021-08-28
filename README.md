@@ -1,20 +1,23 @@
 
-<!--
-**SDB016/SDB016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 몰입과 근성의 백엔드 개발자, 신동빈입니다.
 
-Here are some ideas to get you started:
+## 🙋🏻‍♂️**About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-## 안녕하세요, 예비 백엔드 개발자 신동빈입니다.  
+### **Introduction**
+
+- 안녕하세요! 신입 백엔드 개발자 신동빈입니다.
+- 여러 분야를 접해보다가 내면까지 완벽함을 추구하는 백엔드 개발에 
+큰 매력을 느낀 후, 백엔드에 몰입하게 되었습니다.
+- 무엇보다 몰입과 근성이 제 강점이기에 기술 블로그 운영과 1일 1커밋을 진행하고 있습니다.
+- Clean Code와 Test에 대한 고민을 생활화합니다.
+- 웹 서핑과 스노우보드에 관심이 많습니다.
+
+### **Contact & Channel**
+
+- **Email | smallbean4013@gmail.com**
+- **Blog | [https://velog.io/@sdb016](https://velog.io/@sdb016)**
+- **Github | [https://github.com/SDB016](https://github.com/SDB016)**
 
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongbin4013) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SDB016&show_icons=true&theme=dracula)](https://github.com/SDB016/github-readme-stats)
 
@@ -23,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-### 📓 My Stack 📓
+## 📓 My Stack 
   
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -42,6 +45,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kibana-E55389?style=flat-square&logo=Kibana&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>
-
 
 
