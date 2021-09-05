@@ -23,29 +23,46 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDB016&hide=Jupyter%20Notebook,javascript,python&layout=compact)](https://github.com/SDB016/github-readme-stats)
 
-![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongbin4013)
-
 
 ## 📓 My Stack 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<h5>Back End</h5>
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Oracle Database-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Elasticsearch-F6BF13?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Beats-07A0D7?style=flat-square&logo=Beats&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Logstash-00B9AD?style=flat-square&logo=Logstash&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Kibana-E55389?style=flat-square&logo=Kibana&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<p>
+  <img src="https://img.shields.io/badge/-Spring Boot-9DE36F?style=flat&logo=Spring Boot"/></a>
+  <img src="https://img.shields.io/badge/-Spring MVC-9DE36F?style=flat&logo=Spring"/></a>
+  <img src="https://img.shields.io/badge/-Spring Data JPA-9DE36F?style=flat&logo=Spring"/></a>
 </p>
-<p align="center">
-  <img src="https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat"/></a>
+<p>
+  <img src="https://img.shields.io/badge/-JPA-8A8A8A?style=flat"/></a>
+  <img src="https://img.shields.io/badge/-Querydsl-1071D3?style=flat"/></a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-JUnit5-55D192?style=flat&logo=JUnit5"/></a>
+  <img src="https://img.shields.io/badge/-JUnit4-25A162?style=flat"/></a>
+</p>
+<h5>Front End</h5>
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5"/></a>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-Bootstrap-B992F3?style=flat&logo=Bootstrap"/></a>
+  <img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=Thymeleaf"/></a>
+</p>
+<h5>Database</h5>
+<p>
+  <img src="https://img.shields.io/badge/-H2-FF160B?style=flat"/></a>
+  <img src="https://img.shields.io/badge/-PostgreSQL-6199F1?style=flat&logo=PostgreSQL"/></a>
+  <img src="https://img.shields.io/badge/-MySQL-74A9D1?style=flat&logo=MySQL"/></a>
+</p>
+<h5>Tool</h5>
+<p>
+  <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA"/></a>
+  <img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE"/></a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-Git-FE8A5C?style=flat&logo=Git"/></a>
 </p>
 
