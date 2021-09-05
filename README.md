@@ -20,15 +20,14 @@
 - **Blog | [https://velog.io/@sdb016](https://velog.io/@sdb016)**
 - **Github | [https://github.com/SDB016](https://github.com/SDB016)**
 
-![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongbin4013) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SDB016&show_icons=true&theme=dracula)](https://github.com/SDB016/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDB016&hide=Jupyter%20Notebook,javascript,python&layout=compact)](https://github.com/SDB016/github-readme-stats)
 
-
+![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongbin4013)
 
 
 ## 📓 My Stack 
-  
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -46,5 +45,7 @@
   <img src="https://img.shields.io/badge/Kibana-E55389?style=flat-square&logo=Kibana&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>
-
+<p align="center">
+  <img src="https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat"/></a>
+</p>
 
