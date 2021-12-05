@@ -15,8 +15,8 @@
 
 ### **Contact & Channel**
 
-- **Email | smallbean4013@gmail.com**
-- **Resume | [포트폴리오](https://automatic-skate-705.notion.site/0d1e166c122a49d3994a6a013e7814e2)**
+- **Email | dongbin4013@naver.com**
+- **Resume | [이력서](https://www.notion.so/f490ed4f7c3e4914ad1dffa2ec8fca4d)**
 - **Blog | [https://velog.io/@sdb016](https://velog.io/@sdb016)**
 - **Github | [https://github.com/SDB016](https://github.com/SDB016)**
 
