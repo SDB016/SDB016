@@ -12,7 +12,7 @@
 ### **Contact & Channel**
 
 - **Email | dongbin4013@naver.com**
-- **Blog | [https://velog.io/@sdb016](https://velog.io/@sdb016)**
+- **Blog | [https://dongb.tistory.com](https://dongb.tistory.com)**
 - **Github | [https://github.com/SDB016](https://github.com/SDB016)**
 
 
