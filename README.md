@@ -6,8 +6,8 @@
 
 ### **Introduction**
 
-- 안녕하세요! 신입 백엔드 개발자 신동빈입니다.
-- Clean Code와 [좋은 Test](https://velog.io/@sdb016/series/Test)에 대한 고민을 생활화합니다.
+- 안녕하세요! 백엔드 개발자 신동빈입니다.
+- 좋은 코드 구조와 시스템 구조에 대한 고민을 생활화합니다.
 
 ### **Contact & Channel**
 
